@@ -1,2 +1,2 @@
 # HTML
- Publishing my first simple website using html.
+ Publishing my first simple website using html/css.
